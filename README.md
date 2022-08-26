@@ -23,7 +23,7 @@ I spent time to use this challlenge to develop my core **tech stacks** like **HT
 ### The challenge
 This challenge has helped and improve the my CSS powess but the interesting thing I was able to do is to use the CSS function: `width: calc(98vw + 10px) ` which was  the first time I would be exxperimenting that on my project. I felt happy and fulfilled.
 
-###Users should be able to:###
+### Users should be able to: ###
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
@@ -55,7 +55,7 @@ I am sorry because I am unable to provide the pages views for different screen-s
 
 ### Continued development
 
-One another major challenge I want to work on is the curvy bakcground image which gave me a tough time making responsive at all screen devices which still overlows on some screen sizes.
+One another major challenge I want to work on is the curvy background image which gave me a tough time making responsive at all screen devices which still overlows on some screen sizes.
 
 ### Useful resources
 
@@ -70,4 +70,4 @@ I went online on Frontend mentor to review other developers' codes to help me fi
 
 
 ## Acknowledgments
-I thank God for helping me in the completion of this project as a learning  developer
+I thank God for helping me in the completion of this project as a learning  developer and apprecitae Frontend Mentor for providing a challenge to practise on
